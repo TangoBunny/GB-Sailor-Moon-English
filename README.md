@@ -1,19 +1,19 @@
 # GB-Sailor-Moon-English
 Fan-translation and added features for Bishoujo Senshi Sailor Moon on Game Boy
 
-BISHOUJO SENSHI SAILOR MOON
-ENGLISH AND HIDDEN FEATURES BY TANGOBUNNY
-VERSION 1.0 - FIRST RELEASE
+BISHOUJO SENSHI SAILOR MOON  
+ENGLISH AND HIDDEN FEATURES BY TANGOBUNNY  
+VERSION 1.0 - FIRST RELEASE  
 ============================================================
 
 ROM filename:
-  Bishoujo Senshi Sailor Moon - English and Hidden Features by TangoBunny v1.0.gb
+  Bishoujo Senshi Sailor Moon - English and Hidden Features by TangoBunny v1.0.gb  
 
-Release status:
-  Version 1.0
-  First stable/public release for the TangoPunk.com zine
-  (All patch files are free and can be freely distributed)
-  AI tools were used.
+Release status:  
+  Version 1.0  
+  First stable/public release for the TangoPunk.com zine.  
+  (All patch files are free and can be freely distributed)  
+  AI tools were used.  
 
 
 MAIN FEATURES
@@ -37,43 +37,43 @@ MAIN FEATURES
 
 LATEST CONTROLS
 ---------------
-  Title:
-    Start  = normal game
-    Select = Developer Test Stage Select (Originally inaccessible in the ROM)
+  Title:  
+    - Start  = normal game  
+    - Select = Developer Test Stage Select (Originally inaccessible in the ROM)  
 
-  Boy/Girl choice:
-    A      = normal game selection (the only difference is Girl Mode gives you
-             more health than the Boy Mode)
-    Select = Newly added cheat mode, works for both Girl and Boy Mode
+  Boy/Girl choice:  
+    - A      = normal game selection (the only difference is Girl Mode gives you  
+             more health than the Boy Mode)  
+    - Select = Newly added cheat mode, works for both Girl and Boy Mode  
 
-  Cheat mode:
-    (Cheat mode enables infinite health)
-    Start               = pause/unpause
-    Select while paused = skip to the next main phase (only when the
-                          cheat mode mode is active)
-    Final boss          = stage skip disabled (it's the last level)
+  Cheat mode:  
+    - (Cheat mode enables infinite health)  
+    - Start               = pause/unpause  
+    - Select while paused = skip to the next main phase (only when the  
+                          cheat mode mode is active)  
+    - Final boss          = stage skip disabled (it's the last level)  
 
-  Original retained command:
-    A+B+Select+Start = software reset
+  Original retained command:  
+    - A+B+Select+Start = software reset  
 
 
 COMPATIBILITY
 -------------
-  - 256 KiB MBC1 Game Boy ROM.
-  - Compatible with Game Boy emulators and suitable 256 KiB-or-larger
-    MBC1-compatible flash/reproduction cartridges.
-  - An original 128 KiB mask-ROM cartridge requires physical ROM-chip
-    replacement to hold this expanded version.
+  - 256 KiB MBC1 Game Boy ROM.  
+  - Compatible with Game Boy emulators and suitable 256 KiB-or-larger  
+    MBC1-compatible flash/reproduction cartridges.  
+  - An original 128 KiB mask-ROM cartridge requires physical ROM-chip  
+    replacement to hold this expanded version.  
 
 
 VERIFICATION
 ------------
-  ROM size: 262,144 bytes
-  Cartridge type: MBC1 (header 0x01)
-  ROM size code: 0x03 (256 KiB)
-  Header checksum: 0x73
-  Global checksum: 0xAC7B
-  SHA-256: 7C6EF37F4E1FFD9D1AE07B08B085FCA67C6EC9FC480F30740137942BBF28A067
+  ROM size: 262,144 bytes  
+  Cartridge type: MBC1 (header 0x01)  
+  ROM size code: 0x03 (256 KiB)  
+  Header checksum: 0x73  
+  Global checksum: 0xAC7B  
+  SHA-256: 7C6EF37F4E1FFD9D1AE07B08B085FCA67C6EC9FC480F30740137942BBF28A067  
 
 
 
